@@ -1,10 +1,9 @@
-#myVideo {
-  position: fixed;
-  object-fit: cover;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
+html { 
+  background: url(https://i.imgur.com/mSJsMjU.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 img[src*="tCuYIAb.png"] {
