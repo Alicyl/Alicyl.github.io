@@ -13,6 +13,7 @@ img[src*="tCuYIAb.png"] {
 .imageContainer {
   position: absolute;
   float: right;
+  background: transparent;
 }
 
 .content {
