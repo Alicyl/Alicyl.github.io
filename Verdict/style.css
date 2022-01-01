@@ -8,12 +8,12 @@ html {
 img[src*="tCuYIAb.png"] {
   position: relative; 
   bottom: 0px;
-  float: bottom left;
+  float: left;
 }
 
 .imageContainer {
   position: relative;
-  float: top right;
+  float: right;
 }
 
 .content {
@@ -32,7 +32,6 @@ img[src*="TLbSVMR.png"] {
   height: 550px;
   width: 550px;
   opacity: 100;
-  float: top right;
 }
 
 .content {
