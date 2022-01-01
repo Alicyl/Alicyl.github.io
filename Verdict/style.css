@@ -6,7 +6,7 @@ html {
 }
 
 img[src*="tCuYIAb.png"] {
-  position: fixed; 
+  position: relative; 
   bottom: 0px;
 }
 
