@@ -8,6 +8,7 @@ html {
 img[src*="tCuYIAb.png"] {
   position: relative; 
   bottom: 0px;
+  float: left;
 }
 
 .imageContainer {
@@ -31,6 +32,7 @@ img[src*="TLbSVMR.png"] {
   height: 550px;
   width: 550px;
   opacity: 100;
+  float: right;
 }
 
 .content {
