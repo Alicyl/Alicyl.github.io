@@ -6,12 +6,12 @@ html {
 }
 
 img[src*="tCuYIAb.png"] {
-  position: relative; 
+  position: absolute; 
   bottom: 0px;
 }
 
 .imageContainer {
-  position: relative;
+  position: absolute;
   float: right;
 }
 
@@ -28,6 +28,7 @@ img[src*="tCuYIAb.png"] {
 }
 
 img[src*="TLbSVMR.png"] {
+  position: absolute;
   height: 550px;
   width: 550px;
   opacity: 100;
