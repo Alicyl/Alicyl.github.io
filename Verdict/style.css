@@ -1,5 +1,7 @@
 html { 
-  background: url(https://i.imgur.com/mSJsMjU.jpg) no-repeat center center fixed; 
+  background: url(https://i.imgur.com/mSJsMjU.jpg);
+  background-position: center center fixed;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
