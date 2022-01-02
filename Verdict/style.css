@@ -15,10 +15,10 @@ img[src*="tCuYIAb.png"] {
 .content {
   position: fixed;
   overflow: auto;
-  top: 80px;
-  right: 240px;
-  height: 300px;
-  width: 300px;
+  top: 120px;
+  right: 250px;
+  height: 400px;
+  width: 400px;
   padding: 3px;
   background: transparent;
   text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
@@ -36,11 +36,17 @@ img[src*="TLbSVMR.png"] {
   right: 0;
   margin: 0;
   padding: 0;
-  width: 700px;
+  width: 800px;
   opacity: 100;
 }
 
-.header {
+.h1 {
+  position: fix;
+  margin-right: 700px;
+  text-shadow: 4px 4px 25px rgba(247, 247, 247, 1);
+}
+
+.h2 {
   position: fix;
   margin-right: 700px;
   text-shadow: 3px 3px 2px rgba(255, 151, 41, 1),3px 3px 25px rgba(247, 146, 40, 1),4px 4px 25px rgba(247, 247, 247, 1);
