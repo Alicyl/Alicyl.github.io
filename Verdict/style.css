@@ -6,10 +6,10 @@ html {
 img[src*="tCuYIAb.png"] {
   position: fixed;
   left: 0;
-  bottom: 10px;
+  bottom: -25px;
   margin: 0;
   padding: 0;
-  width: 7000px;
+  width: 700px;
 }
 
 .content {
