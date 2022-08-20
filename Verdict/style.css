@@ -11,9 +11,7 @@
 }
 
 img[src*="1hJZiaI.png"] {
-  position: fixed; 
-  bottom: 1000px;
-  left: 100px;
+  position: fixed;
 }
 
 .imageContainer {
