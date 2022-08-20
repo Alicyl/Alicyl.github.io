@@ -44,8 +44,7 @@ img[src*="TLbSVMR.png"] {
 
 .h1 {
   position: fix;
-  top: 100px;
-  margin-left: 700px;
+  margin-right: 700px;
   text-shadow: 4px 4px 25px rgba(247, 247, 247, 1);
 }   
 
