@@ -12,11 +12,7 @@
 
 img[src*="1hJZiaI.png"] {
   position: fixed; 
-  left: 0;
-  bottom: -25px;
-  margin: 0;
-  padding: 0;
-  width: 700px;
+  bottom: 0px;
 }
 
 .imageContainer {
@@ -48,6 +44,7 @@ img[src*="TLbSVMR.png"] {
 
 .h1 {
   position: fix;
+  top: 0px;
   margin-right: 700px;
   text-shadow: 4px 4px 25px rgba(247, 247, 247, 1);
 }   
