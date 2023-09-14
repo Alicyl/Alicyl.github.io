@@ -41,7 +41,7 @@ img[src*="TLbSVMR.png"] {
 }
 
 .h1 {
-  position: fix;
+  position: fixed;
   top: 0px;
   left: 0px;
   margin-right: 700px;
@@ -49,7 +49,7 @@ img[src*="TLbSVMR.png"] {
 }   
 
 .h2 {
-  position: fix;
+  position: fixed;
   top: 0px;
   left: 0px;
   margin-right: 700px;
